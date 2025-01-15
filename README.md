@@ -9,8 +9,9 @@ elanoma, a type of skin cancer, is a serious health concern with potentially lif
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
+  
 
 
 
